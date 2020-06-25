@@ -1,0 +1,1 @@
+INSERT INTO STOCK (id, symbol, bid_price, ask_price) VALUES (1, 'NYSE', 30.42, 45.23);
